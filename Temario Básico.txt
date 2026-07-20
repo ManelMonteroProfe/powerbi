@@ -1,0 +1,8 @@
+Nivel Básico — Power BI Desktop desde cero (0 a 40 horas)
+
+    Interfaz de Power BI Desktop: paneles, vistas (Datos, Modelo, Informe)
+    Conexión a fuentes: Excel, CSV, SQL Server, Google Sheets, APIs REST
+    Power Query Editor y Lenguaje M: transformaciones, limpieza ETL y combinación de tablas
+    Modelado de datos: relaciones entre tablas, tablas de fechas, esquema estrella
+    Visualizaciones básicas: barras, líneas, tarjetas KPI, mapas, tablas, gráficos de dispersión
+    Filtros, segmentadores y drill-through
